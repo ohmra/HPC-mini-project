@@ -1,5 +1,6 @@
 # HPC-mini-project
 GRID5000
+
 Sherical Harmonic Representation of Earth Elevation Data
 
 # Execution sur grid5000
